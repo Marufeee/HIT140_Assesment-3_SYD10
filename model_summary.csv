@@ -1,0 +1,15 @@
+,LR 2.1 goal difference,LR 2.2 team goals
+R2_full,0.445,0.266
+adjR2_full,0.398,0.236
+test_R2,0.374,0.249
+test_RMSE,1.869,1.289
+base_RMSE,2.391,1.511
+test_MAE,1.599,0.966
+base_MAE,1.984,1.18
+cv_R2,0.246,0.175
+cv_R2_sd,0.255,0.113
+cv_RMSE,1.639,1.241
+cv_base_RMSE,2.008,1.386
+cv_MAE,1.313,0.932
+bp_p,0.18,0.186
+shapiro_p,0.65,0.0
